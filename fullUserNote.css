@@ -1,0 +1,3 @@
+[class^="note-"] > [class^="textarea-"] {
+    max-height: unset;
+}
